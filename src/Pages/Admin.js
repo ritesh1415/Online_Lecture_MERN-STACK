@@ -48,7 +48,6 @@ const Admin = () => {
           icon: "success",
           title: "Course added successfully",
         });
-        // Optionally clear the course form or reset input state
       } else {
         Swal.fire({
           icon: "error",
